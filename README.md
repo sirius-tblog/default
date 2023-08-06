@@ -1,2 +1,2 @@
 # default
-Example by Used:  https://cdn.jsdelivr.net/gh/sirius-tblog/default/0.jpg
+Example by Used:  https://cdn.jsdelivr.net/gh/sirius-tblog/default.img/0.jpg
